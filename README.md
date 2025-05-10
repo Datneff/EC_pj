@@ -80,7 +80,7 @@ Ogani là nền tảng thương mại điện tử hiện đại chuyên về c�
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/minhdat204/Ecommerce_project.git
+    git clone https://github.com/Datneff/EC_pj.git
     cd Ecommerce_project
     ```
 
